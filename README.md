@@ -6,7 +6,7 @@ Short description of the project: what it does and why.
 
 ```bash
 git clone <repository-url>
-cd wu_course01
+cd wu_course04
 uv sync
 ```
 
