@@ -2133,7 +2133,7 @@ wheels = [
 ]
 
 [[package]]
-name = "wu-course01"
+name = "wu-course04"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
