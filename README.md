@@ -5,7 +5,7 @@ Short description of the project: what it does and why.
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/emlyon-hids-python-2026/wu_course04.git
 cd wu_course04
 uv sync
 ```
